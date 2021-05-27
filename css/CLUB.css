@@ -24,5 +24,5 @@ div.Club ul li a{
 }
 div.Club ul li:hover{
     transition: all 0.1s ease-out;
-    transform: scale(1.2,  1.2);
+    transform: scale(1.1,  1.1);
 }
