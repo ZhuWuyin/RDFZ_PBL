@@ -43,6 +43,7 @@ body {
 .mainPage ul li{
     float: left;
     font-size: 950%;
+    font-family: sans-serif;
     padding: 0% 0% 0% 4%;
     width: fit-content;
     color: rgb(255, 255, 255);
