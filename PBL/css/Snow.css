@@ -1,0 +1,10 @@
+.content{
+    margin-top: 50px;
+    margin-left: 8%;
+    margin-bottom: 80px;
+    height: 92%;
+}
+.content img{
+    max-width: 40%;
+    border-radius: 2%;
+}
