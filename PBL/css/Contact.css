@@ -1,0 +1,17 @@
+div.Contact{
+    width: 100%;
+    height: 92%;
+}
+div.Contact iframe{
+    float: left;
+    height: 500px;
+    width: 70%;
+    margin-top: 50px;
+    margin-left: 200px;
+}
+div.Contact p{
+    display: block;
+    float: left;
+    font-size: 40px;
+    margin-left: 200px;
+}
