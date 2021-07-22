@@ -1,0 +1,365 @@
+.about{
+    width: 100%;
+	-o-width: 100%;
+	-ms-width: 100%;
+	-moz-width: 100%;
+	-webkit-width: 100%;
+    min-height: 100%;
+	-o-min-height: 100%;
+	-ms-min-height: 100%;
+	-moz-min-height: 100%;
+	-webkit-min-height: 100%;
+    margin-top: 1.5px;
+	-o-margin-top: 1.5px;
+	-ms-margin-top: 1.5px;
+	-moz-margin-top: 1.5px;
+	-webkit-margin-top: 1.5px;
+}
+.top{
+    width: 100%;
+	-o-width: 100%;
+	-ms-width: 100%;
+	-moz-width: 100%;
+	-webkit-width: 100%;
+    height: 100%;
+	-o-height: 100%;
+	-ms-height: 100%;
+	-moz-height: 100%;
+	-webkit-height: 100%;
+    background-image: url("../img/About/imgPic.jpg");
+    background-size: 100%;
+    background-repeat: repeat-y;
+}
+.top>div{
+	height: 100%;
+	-o-height: 100%;
+	-ms-height: 100%;
+	-moz-height: 100%;
+	-webkit-height: 95%;
+    width: 100%;
+	-o-width: 100%;
+	-ms-width: 100%;
+	-moz-width: 100%;
+	-webkit-width: 100%;
+    display: flex;
+	-o-display: flex;
+	-ms-display: flex;
+	-moz-display: flex;
+	-webkit-display: flex;
+    justify-content: center;
+	-o-justify-content: center;
+	-ms-justify-content: center;
+	-moz-justify-content: center;
+	-webkit-justify-content: center;
+    align-items: center;
+	-o-align-items: center;
+	-ms-align-items: center;
+	-moz-align-items: center;
+	-webkit-align-items: center;
+    background-color: rgba(0, 0, 0, 0.500);
+	-o-background-color: rgba(0, 0, 0, 0.500);
+	-ms-background-color: rgba(0, 0, 0, 0.500);
+	-moz-background-color: rgba(0, 0, 0, 0.500);
+	-webkit-background-color: rgba(0, 0, 0, 0.500);
+}
+.top>div>h1{
+	text-align: center;
+	-o-text-align: center;
+	-ms-text-align: center;
+	-moz-text-align: center;
+	-webkit-text-align: center;
+    font-size: 200px;
+	-o-font-size: 200px;
+	-ms-font-size: 200px;
+	-moz-font-size: 200px;
+	-webkit-font-size: 200px;
+    color: white;
+	-o-color: white;
+	-ms-color: white;
+	-moz-color: white;
+	-webkit-color: white;
+}
+.why{
+    width: 100%;
+	-o-width: 100%;
+	-ms-width: 100%;
+	-moz-width: 100%;
+	-webkit-width: 100%;
+    display: flex;
+	-o-display: flex;
+	-ms-display: flex;
+	-moz-display: flex;
+	-webkit-display: flex;
+    flex-flow: column;
+	-o-flex-flow: column;
+	-ms-flex-flow: column;
+	-moz-flex-flow: column;
+	-webkit-flex-flow: column;
+    justify-content: center;
+	-o-justify-content: center;
+	-ms-justify-content: center;
+	-moz-justify-content: center;
+	-webkit-justify-content: center;
+    align-items: center;
+	-o-align-items: center;
+	-ms-align-items: center;
+	-moz-align-items: center;
+	-webkit-align-items: center;
+    margin-top: 150px;
+	-o-margin-top: 150px;
+	-ms-margin-top: 150px;
+	-moz-margin-top: 150px;
+	-webkit-margin-top: 150px;
+}
+.why>h1{
+    display: block;
+	-o-display: block;
+	-ms-display: block;
+	-moz-display: block;
+	-webkit-display: block;
+    width: 90%;
+	-o-width: 90%;
+	-ms-width: 90%;
+	-moz-width: 90%;
+	-webkit-width: 90%;
+    font-size: 60px;
+	-o-font-size: 60px;
+	-ms-font-size: 60px;
+	-moz-font-size: 60px;
+	-webkit-font-size: 60px;
+    text-align: center;
+	-o-text-align: center;
+	-ms-text-align: center;
+	-moz-text-align: center;
+	-webkit-text-align: center;
+}
+.why>h1 span{
+    font-size: 100px;
+	-o-font-size: 100px;
+	-ms-font-size: 100px;
+	-moz-font-size: 100px;
+	-webkit-font-size: 100px;
+}
+.why>p{
+    display: block;
+	-o-display: block;
+	-ms-display: block;
+	-moz-display: block;
+	-webkit-display: block;
+    width: 90%;
+	-o-width: 90%;
+	-ms-width: 90%;
+	-moz-width: 90%;
+	-webkit-width: 90%;
+    font-size: 50px;
+	-o-font-size: 50px;
+	-ms-font-size: 50px;
+	-moz-font-size: 50px;
+	-webkit-font-size: 50px;
+    text-align: left;
+	-o-text-align: left;
+	-ms-text-align: left;
+	-moz-text-align: left;
+	-webkit-text-align: left;
+    word-break: normal;
+	-o-word-break: normal;
+	-ms-word-break: normal;
+	-moz-word-break: normal;
+	-webkit-word-break: normal;
+}
+.stuff{
+	display: flex;
+	-o-display: flex;
+	-ms-display: flex;
+	-moz-display: flex;
+	-webkit-display: flex;
+    flex-flow: column;
+	-o-flex-flow: column;
+	-ms-flex-flow: column;
+	-moz-flex-flow: column;
+	-webkit-flex-flow: column;
+    justify-content: center;
+	-o-justify-content: center;
+	-ms-justify-content: center;
+	-moz-justify-content: center;
+	-webkit-justify-content: center;
+    align-items: center;
+	-o-align-items: center;
+	-ms-align-items: center;
+	-moz-align-items: center;
+	-webkit-align-items: center;
+    margin-top: 150px;
+	-o-margin-top: 150px;
+	-ms-margin-top: 150px;
+	-moz-margin-top: 150px;
+	-webkit-margin-top: 150px;
+    width: 100%;
+	-o-width: 100%;
+	-ms-width: 100%;
+	-moz-width: 100%;
+	-webkit-width: 100%;
+}
+.stuff>span{
+    font-size: 100px;
+	-o-font-size: 100px;
+	-ms-font-size: 100px;
+	-moz-font-size: 100px;
+	-webkit-font-size: 100px;
+    display: block;
+	-o-display: block;
+	-ms-display: block;
+	-moz-display: block;
+	-webkit-display: block;
+	width: 85%;
+	-o-width: 85%; 
+	-ms-width: 85%;
+	-moz-width: 85%;
+	-webkit-width: 85%;
+	text-align: left;
+	-o-text-align: left;
+	-ms-text-align: left;
+	-moz-text-align: left;
+	-webkit-text-align: left;
+    margin-bottom: 60px;
+	-o-margin-bottom: 60px;
+	-ms-margin-bottom: 60px;
+	-moz-margin-bottom: 60px;
+	-webkit-margin-bottom: 60px;
+    color: brown;
+	-o-color: brown;
+	-ms-color: brown;
+	-moz-color: brown;
+	-webkit-color: brown;
+}
+.stuff>ul{
+	width: 90%;
+	-o-width: 90%;
+	-ms-width: 90%;
+	-moz-width: 90%;
+	-webkit-width: 90%;
+    list-style-type: none;
+	-o-list-style-type: none;
+	-ms-list-style-type: none;
+	-moz-list-style-type: none;
+	-webkit-list-style-type: none;
+    display: flex;
+	-o-display: flex;
+	-ms-display: flex;
+	-moz-display: flex;
+	-webkit-display: flex;
+    flex-wrap: wrap;
+	-o-flex-wrap: wrap;
+	-ms-flex-wrap: wrap;
+	-moz-flex-wrap: wrap;
+	-webkit-flex-wrap: wrap;
+    flex-flow: row;
+	-o-flex-flow: row;
+	-ms-flex-flow: row;
+	-moz-flex-flow: row;
+	-webkit-flex-flow: row;
+    justify-content: center;
+	-o-justify-content: center;
+	-ms-justify-content: center;
+	-moz-justify-content: center;
+	-webkit-justify-content: center;
+    align-items: center;
+	-o-align-items: center;
+	-ms-align-items: center;
+	-moz-align-items: center;
+	-webkit-align-items: center;
+    margin-bottom: 200px;
+	-o-margin-bottom: 200px;
+	-ms-margin-bottom: 200px;
+	-moz-margin-bottom: 200px;
+	-webkit-margin-bottom: 200px;
+	padding: 0;    
+	-o-padding: 0; 
+	-ms-padding: 0;
+	-moz-padding: 0;
+	-webkit-padding: 0;
+}
+.stuff>ul>li{
+	width: 100%;
+	-o-width: 100%;
+	-ms-width: 100%;
+	-moz-width: 100%;
+	-webkit-width: 100%;
+    display: flex;
+	-o-display: flex;
+	-ms-display: flex;
+	-moz-display: flex;
+	-webkit-display: flex;
+    flex-flow: column;
+	-o-flex-flow: column;
+	-ms-flex-flow: column;
+	-moz-flex-flow: column;
+	-webkit-flex-flow: column;
+    justify-content: center;
+	-o-justify-content: center;
+	-ms-justify-content: center;
+	-moz-justify-content: center;
+	-webkit-justify-content: center;
+    align-items: center;
+	-o-align-items: center;
+	-ms-align-items: center;
+	-moz-align-items: center;
+	-webkit-align-items: center;
+}
+.stuff>ul>li>img{
+    width: 80%;
+	-o-width: 80%;
+	-ms-width: 80%;
+	-moz-width: 80%;
+	-webkit-width: 80%;
+}
+.stuff>ul>li p{
+    width: 80%;
+	-o-width: 80%;
+	-ms-width: 80%;
+	-moz-width: 80%;
+	-webkit-width: 80%;
+	height: 100px;
+	-o-height: 100px;
+	-ms-height: 100px;
+	-moz-height: 100px;
+	-webkit-height: 100px;
+    font-size: 30px;
+	-o-font-size: 30px;
+	-ms-font-size: 30px;
+	-moz-font-size: 30px;
+	-webkit-font-size: 30px;
+}
+@media screen and (max-width: 1440px){
+	.why>h1{
+		font-size: 60px;
+	}
+	.why>h1 span{
+		font-size: 100px;
+	}
+	.why>p{
+		font-size: 50px;
+	}
+	.stuff>span{
+		font-size: 100px;
+	}
+    .stuff>ul>li p{
+        font-size: 30px;
+    }
+}
+@media screen and (max-width: 1095px){
+	.why>h1{
+		font-size: 50px;
+	}
+	.why>h1 span{
+		font-size: 80px;
+	}
+	.why>p{
+		font-size: 40px;
+	}
+	.stuff>span{
+		font-size: 75px;
+	}
+    .stuff>ul>li p{
+        font-size: 25px;
+    }
+}

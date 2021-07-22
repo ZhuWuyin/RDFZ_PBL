@@ -1,0 +1,180 @@
+html{
+    height: 100%;
+}
+body{
+	height: 100%;
+    margin: 0;
+	-o-margin: 0;
+	-ms-margin: 0;
+	-moz-margin: 0;
+	-webkit-margin: 0;
+}
+/*Navigation Bar*/
+.blank{
+	width: 100%;
+	height: 70px;
+}
+.nav{
+    width: 100%;
+	-o-width: 100%;
+	-ms-width: 100%;
+	-moz-width: 100%;
+	-webkit-width: 100%;
+	position: fixed;
+	-o-position: fixed;
+	-ms-position: fixed;
+	-moz-position: fixed;
+	-webkit-position: fixed;
+	z-index: 1100;
+	-o-z-index: 1100;
+	-ms-z-index: 1100;
+	-moz-z-index: 1100;
+	-webkit-z-index: 1100;
+}
+.nav>ul{
+    list-style-type: none;
+	-o-list-style-type: none;
+	-ms-list-style-type: none;
+	-moz-list-style-type: none;
+	-webkit-list-style-type: none;
+    height: 70px;
+	-o-height: 70px;
+	-ms-height: 70px;
+	-moz-height: 70px;
+	-webkit-height: 70px;
+    padding: 0px;
+	-o-padding: 0px;
+	-ms-padding: 0px;
+	-moz-padding: 0px;
+	-webkit-padding: 0px;
+	margin-top: 0;    
+	-o-margin-top: 0; 
+	-ms-margin-top: 0;
+	-moz-margin-top: 0;
+	-webkit-margin-top: 0;
+    background-color: rgba(61, 61, 61, 0.850);
+	-o-background-color: rgba(61, 61, 61, 0.850);
+	-ms-background-color: rgba(61, 61, 61, 0.850);
+	-moz-background-color: rgba(61, 61, 61, 0.850);
+	-webkit-background-color: rgba(61, 61, 61, 0.850);
+}
+.nav>ul>li~li{
+    width: fit-content;
+	-o-width: fit-content;
+	-ms-width: fit-content;
+	-moz-width: fit-content;
+	-webkit-width: fit-content;
+    padding-right: 40px;
+	-o-padding-right: 40px;
+	-ms-padding-right: 40px;
+	-moz-padding-right: 40px;
+	-webkit-padding-right: 40px;
+    float: right;
+	-o-float: right;
+	-ms-float: right;
+	-moz-float: right;
+	-webkit-float: right;
+}
+.nav>ul>li>a{
+    display: block;
+	-o-display: block;
+	-ms-display: block;
+	-moz-display: block;
+	-webkit-display: block;
+    width: fit-content;
+	-o-width: fit-content;
+	-ms-width: fit-content;
+	-moz-width: fit-content;
+	-webkit-width: fit-content;
+    font-size: 20px;
+	-o-font-size: 20px;
+	-ms-font-size: 20px;
+	-moz-font-size: 20px;
+	-webkit-font-size: 20px;
+    padding: 20px 20px 40px 20px;
+	-o-padding: 20px 20px 40px 20px;
+	-ms-padding: 20px 20px 40px 20px;
+	-moz-padding: 20px 20px 40px 20px;
+	-webkit-padding: 20px 20px 40px 20px;
+    text-decoration: none;
+	-o-text-decoration: none;
+	-ms-text-decoration: none;
+	-moz-text-decoration: none;
+	-webkit-text-decoration: none;
+    color: rgb(255, 255, 255);
+	-o-color: rgb(255, 255, 255);
+	-ms-color: rgb(255, 255, 255);
+	-moz-color: rgb(255, 255, 255);
+	-webkit-color: rgb(255, 255, 255);
+}
+.nav>ul>li~li>a:hover{
+    background-color: rgb(165, 42, 42);
+	-o-background-color: rgb(165, 42, 42);
+	-ms-background-color: rgb(165, 42, 42);
+	-moz-background-color: rgb(165, 42, 42);
+	-webkit-background-color: rgb(165, 42, 42);
+    color: white;
+	-o-color: white;
+	-ms-color: white;
+	-moz-color: white;
+	-webkit-color: white;
+}
+.nav>ul>li~li>a:active{
+    background-color: white;
+	-o-background-color: white;
+	-ms-background-color: white;
+	-moz-background-color: white;
+	-webkit-background-color: white;
+    color: black;
+	-o-color: black;
+	-ms-color: black;
+	-moz-color: black;
+	-webkit-color: black;
+}
+img.logo{
+    content: url("../img/RDFZ_logo.png");
+	-o-content: url("../img/RDFZ_logo.png");
+	-ms-content: url("../img/RDFZ_logo.png");
+	-moz-content: url("../img/RDFZ_logo.png");
+	-webkit-content: url("../img/RDFZ_logo.png");
+    height: 60px;
+	-o-height: 60px;
+	-ms-height: 60px;
+	-moz-height: 60px;
+	-webkit-height: 60px;
+    padding-top: 5px;
+	-o-padding-top: 5px;
+	-ms-padding-top: 5px;
+	-moz-padding-top: 5px;
+	-webkit-padding-top: 5px;
+    padding-left: 20px;
+	-o-padding-left: 20px;
+	-ms-padding-left: 20px;
+	-moz-padding-left: 20px;
+	-webkit-padding-left: 20px;
+}
+img.logo:hover{
+    content: url("../img/HOVER_logo.png");
+	-o-content: url("../img/HOVER_logo.png");
+	-ms-content: url("../img/HOVER_logo.png");
+	-moz-content: url("../img/HOVER_logo.png");
+	-webkit-content: url("../img/HOVER_logo.png");
+}
+/*Top Main Page*/
+#mainPage{
+    width: 100%;
+	-o-width: 100%;
+	-ms-width: 100%;
+	-moz-width: 100%;
+	-webkit-width: 100%;
+    height: 92%;
+	-o-height: 92%;
+	-ms-height: 92%;
+	-moz-height: 92%;
+	-webkit-height: 92%;
+	margin-top: 1.5px;    
+	-o-margin-top: 1.5px; 
+	-ms-margin-top: 1.5px;
+	-moz-margin-top: 1.5px;
+	-webkit-margin-top: 1.5px;
+}

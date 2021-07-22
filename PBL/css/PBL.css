@@ -1,0 +1,105 @@
+.content{
+    margin-top: 50px;
+	-o-margin-top: 50px;
+	-ms-margin-top: 50px;
+	-moz-margin-top: 50px;
+	-webkit-margin-top: 50px;
+    margin-left: 8%;
+	-o-margin-left: 8%;
+	-ms-margin-left: 8%;
+	-moz-margin-left: 8%;
+	-webkit-margin-left: 8%;
+    min-height: 100%;
+	-o-min-height: 100%;
+	-ms-min-height: 100%;
+	-moz-min-height: 100%;
+	-webkit-min-height: 100%;
+    margin-bottom: 100px;
+	-o-margin-bottom: 100px;
+	-ms-margin-bottom: 100px;
+	-moz-margin-bottom: 100px;
+	-webkit-margin-bottom: 100px;
+    width: 85%;
+	-o-width: 85%;
+	-ms-width: 85%;
+	-moz-width: 85%;
+	-webkit-width: 85%;
+}
+.content img{
+    float: right;
+	-o-float: right;
+	-ms-float: right;
+	-moz-float: right;
+	-webkit-float: right;
+    height: 500px;
+	-o-height: 500px;
+	-ms-height: 500px;
+	-moz-height: 500px;
+	-webkit-height: 500px;
+    margin: 0 100px 100px 100px;
+	-o-margin: 0 100px 100px 100px;
+	-ms-margin: 0 100px 100px 100px;
+	-moz-margin: 0 100px 100px 100px;
+	-webkit-margin: 0 100px 100px 100px;
+    border-radius: 5px;
+	-o-border-radius: 5px;
+	-ms-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+}
+.content h1{
+    color: brown;
+	-o-color: brown;
+	-ms-color: brown;
+	-moz-color: brown;
+	-webkit-color: brown;
+}
+.content>div>div{
+    font-size: 20px;
+	-o-font-size: 20px;
+	-ms-font-size: 20px;
+	-moz-font-size: 20px;
+	-webkit-font-size: 20px;
+    width: 90%;
+	-o-width: 90%;
+	-ms-width: 90%;
+	-moz-width: 90%;
+	-webkit-width: 90%;
+    height: 100%;
+	-o-height: 100%;
+	-ms-height: 100%;
+	-moz-height: 100%;
+	-webkit-height: 100%;
+}
+.content>div{
+    width: 100%;
+	-o-width: 100%;
+	-ms-width: 100%;
+	-moz-width: 100%;
+	-webkit-width: 100%;
+    height: 100%;
+	-o-height: 100%;
+	-ms-height: 100%;
+	-moz-height: 100%;
+	-webkit-height: 100%;
+    margin-top: 100px;
+	-o-margin-top: 100px;
+	-ms-margin-top: 100px;
+	-moz-margin-top: 100px;
+	-webkit-margin-top: 100px;
+    display: flex;
+	-o-display: flex;
+	-ms-display: flex;
+	-moz-display: flex;
+	-webkit-display: flex;
+    justify-content: center;
+	-o-justify-content: center;
+	-ms-justify-content: center;
+	-moz-justify-content: center;
+	-webkit-justify-content: center;
+    align-items: center;
+	-o-align-items: center;
+	-ms-align-items: center;
+	-moz-align-items: center;
+	-webkit-align-items: center;
+}

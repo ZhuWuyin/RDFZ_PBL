@@ -1,0 +1,39 @@
+.club{
+    float: left;
+	-o-float: left;
+	-ms-float: left;
+	-moz-float: left;
+	-webkit-float: left;
+    margin-top: 50px;
+	-o-margin-top: 50px;
+	-ms-margin-top: 50px;
+	-moz-margin-top: 50px;
+	-webkit-margin-top: 50px;
+    margin-left: 8%;
+	-o-margin-left: 8%;
+	-ms-margin-left: 8%;
+	-moz-margin-left: 8%;
+	-webkit-margin-left: 8%;
+    min-height: 100%;
+	-o-min-height: 100%;
+	-ms-min-height: 100%;
+	-moz-min-height: 100%;
+	-webkit-min-height: 100%;
+    margin-bottom: 100px;
+	-o-margin-bottom: 100px;
+	-ms-margin-bottom: 100px;
+	-moz-margin-bottom: 100px;
+	-webkit-margin-bottom: 100px;
+    width: 85%;
+	-o-width: 85%;
+	-ms-width: 85%;
+	-moz-width: 85%;
+	-webkit-width: 85%;
+}
+.club img{
+    border-radius: 10px;
+	-o-border-radius: 10px;
+	-ms-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+}
